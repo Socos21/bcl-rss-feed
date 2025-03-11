@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import feedgenerator
 
 # URL of the BCL schedule page (Replace with actual URL)
-BCL_SCHEDULE_URL = "https://www.championsleague.basketball/2024/schedule"
+BCL_SCHEDULE_URL = "https://www.championsleague.basketball/en/games"
 
 # Fetch schedule data
 def get_bcl_schedule():
